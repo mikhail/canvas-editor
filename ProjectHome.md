@@ -1,0 +1,1 @@
+This wrapper converts a regular `<div>` tag into a `<canvas>` tag with many commonly needed tools and features: free hand drawing, a fill-bucket coloring, and more.
